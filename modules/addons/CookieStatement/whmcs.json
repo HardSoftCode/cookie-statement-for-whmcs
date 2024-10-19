@@ -1,0 +1,34 @@
+{
+  "schema": "1.0",
+  "type": "hardsoftcode-addons",
+  "name": "CookieStatement",
+  "version": "1.0.1",
+  "license": "proprietary",
+  "category": "utilities",
+  "description": {
+    "name": "Cookie Statement",
+    "tagline": "Create a page for your cookie statement that will build trust and allows users to visit your website with confidence.",
+    "long": "A cookie policy is a declaration to your users on what cookies are active on your website, what user data they track, for what purpose, and where in the world this data is sent. Also, a cookie policy should contain information on how your users may opt out of the cookies or change their settings in regard to the cookies on your website. Many website owners choose to incorporate the cookie policy as a section of their privacy policy. You can also leave your website cookie policy as a stand-alone section with cookie statement module for WHMCS you can do that.",
+    "features": [
+      "Page title",
+      "WYSIWYG Editor",
+      "Meta Description and Keywords",
+      "Visitor counter",
+      "Auto create and update date",
+      "Responsive & Mobile Friendly"
+    ]
+  },
+  "logo": {
+    "filename": "logo.png"
+  },
+  "support": {
+    "homepage": "https:\/\/www.hardsoftcode.com\/products.php?p=product&a=cookie-statement",
+    "docs_url": "https:\/\/www.hardsoftcode.com\/documentation.php?p=articles&a=cookie-statement"
+  },
+  "authors": [
+    {
+      "name": "HardSoftCode",
+      "homepage": "https:\/\/www.hardsoftcode.com\/"
+    }
+  ]
+}
