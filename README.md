@@ -8,3 +8,6 @@ A cookie policy is a declaration to your users on what cookies are active on you
 - Visitor counter
 - Auto create and update date
 - Responsive & Mobile Friendly
+
+## Compatibility 
+WHMCS v7.8 > WHMCS v8.11
